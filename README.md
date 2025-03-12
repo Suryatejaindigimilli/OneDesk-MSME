@@ -53,7 +53,8 @@ OneDeskMSME is a modern Windows Desktop application designed for MSME shopkeeper
 
 ## Screenshots
 
-(Attach UI screenshots here)
+![image](https://github.com/user-attachments/assets/ebe694a0-e748-48c9-af01-43e86976c094)
+
 
 ## API Endpoints (For Microservices)
 
