@@ -153,7 +153,7 @@ const Settings: React.FC = () => {
           </div>
           
           <div className="mt-6 p-4 bg-blue-50 rounded-md">
-            <h3 className="text-sm font-medium text-blue-800 mb-2">About One Desktop Solution</h3>
+            <h3 className="text-sm font-medium text-blue-800 mb-2">About OneDesk MSME</h3>
             <p className="text-sm text-blue-700">
               One Desktop Solution is a comprehensive inventory and billing management system designed for MSME shopkeepers. It allows you to manage your inventory, track expiring products, process returns, and create bills - all in one place.
             </p>
