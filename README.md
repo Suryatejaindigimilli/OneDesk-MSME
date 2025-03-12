@@ -2,7 +2,7 @@
 
 ## Overview
 
-One Desktop Solution is a modern Windows Desktop application designed for MSME shopkeepers to manage their inventory, process billing, and sync data with the cloud. The application ensures a smooth transition from legacy systems while integrating the latest technology to enhance efficiency.
+OneDeskMSME is a modern Windows Desktop application designed for MSME shopkeepers to manage their inventory, process billing, and sync data with the cloud. The application ensures a smooth transition from legacy systems while integrating the latest technology to enhance efficiency.
 
 ## Features
 
