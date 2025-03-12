@@ -23,7 +23,7 @@ One Desktop Solution is a modern Windows Desktop application designed for MSME s
 
 1. Clone the repository:
    ```sh
-   git clone [<repository_url>](https://github.com/Suryatejaindigimilli/OneDesk-MSME)
+   git clone https://github.com/Suryatejaindigimilli/OneDesk-MSME
    cd project-folder
    ```
 2. Install dependencies:
@@ -68,7 +68,7 @@ One Desktop Solution is a modern Windows Desktop application designed for MSME s
 
 ## Product Demonstration
 
-[(Include link to a video demonstrating the product workflow.)](https://one-desk-msme.vercel.app/)
+[working link](https://one-desk-msme.vercel.app/)
 
 ## Contributors
 
