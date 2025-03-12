@@ -68,7 +68,7 @@ One Desktop Solution is a modern Windows Desktop application designed for MSME s
 
 ## Product Demonstration
 
-(Include link to a video demonstrating the product workflow.)
+[(Include link to a video demonstrating the product workflow.)](https://one-desk-msme.vercel.app/)
 
 ## Contributors
 
