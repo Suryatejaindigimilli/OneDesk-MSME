@@ -133,7 +133,7 @@ const Settings: React.FC = () => {
           <div className="space-y-4">
             <div>
               <h3 className="text-sm font-medium text-gray-700">Application</h3>
-              <p className="text-gray-900">One Desktop Solution</p>
+              <p className="text-gray-900">OneDesk MSME</p>
             </div>
             
             <div>
