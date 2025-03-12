@@ -55,6 +55,15 @@ OneDeskMSME is a modern Windows Desktop application designed for MSME shopkeeper
 
 ![image](https://github.com/user-attachments/assets/ebe694a0-e748-48c9-af01-43e86976c094)
 
+![image](https://github.com/user-attachments/assets/68629020-e87d-423b-8ee1-f09a9bc68ba0)
+
+![image](https://github.com/user-attachments/assets/6066e516-9a43-43f4-b342-17b760a5406f)
+
+![image](https://github.com/user-attachments/assets/469121df-44d5-4cee-81a4-4bcde12eed26)
+
+![image](https://github.com/user-attachments/assets/36916dfd-9bad-4960-b1ff-22aaed94ac0e)
+
+![image](https://github.com/user-attachments/assets/c6c4173f-5bf9-4ccd-8083-2ec52879b5b5)
 
 ## API Endpoints (For Microservices)
 
@@ -73,8 +82,6 @@ OneDeskMSME is a modern Windows Desktop application designed for MSME shopkeeper
 
 ## Contributors
 
-(Your name and team details)
+1. Durga Surya Teja Indigimilli (myself)
+2. Manikanta Chodisetty
 
-## License
-
-Specify if open-source or proprietar
